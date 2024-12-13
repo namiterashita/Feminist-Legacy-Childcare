@@ -1,4 +1,5 @@
 # The Political Legacy of Feminist Movements on Childcare Policies: Analyzing the Long-term Effects of Social Movements in South Korea
 KPSA2024, JSQPS2025 Appendix
 
-You can see Appendix [here](https://kazuhiroterashita.com/Feminist-Legacy-Childcare/appendix).
+Appendix [here](https://kazuhiroterashita.com/Feminist-Legacy-Childcare/appendix).
+KPSA2024 Slides [here](https://kazuhiroterashita.com/Feminist-Legacy-Childcare/slide_KPSA2024).
